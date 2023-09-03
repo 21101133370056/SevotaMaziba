@@ -83,6 +83,7 @@
                 android:textColorHint="@color/white"
                 android:textSize="28sp"/>
 
+
             <EditText
                 android:id="@+id/parentPhoneNumber"
                 android:layout_width="276dp"
